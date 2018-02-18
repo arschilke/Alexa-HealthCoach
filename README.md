@@ -2,15 +2,15 @@
 Incorporating our technology (we are Computer Science students after all) into our health and exercise habits!
 
 ## What it does
-*Boost self-confidence 
-*Provide fitness and health knowledge
-*Advise specific workouts to do
-    **Cardio
-    **Abs
-    **Upper Body
-    **Lower Body
-*Strive to improve achievement drive
-*Spread optimism
+* Boost self-confidence 
+* Provide fitness and health knowledge
+* Advise specific workouts to do
+    ** Cardio
+    ** Abs
+    ** Upper Body
+    ** Lower Body
+* Strive to improve achievement drive
+* Spread optimism
 
 ## How we built it
 1. Researching Amazon Web Services and Alexa Skill Developer
