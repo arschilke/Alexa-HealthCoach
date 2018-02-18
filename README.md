@@ -28,11 +28,6 @@ Using the Alexa Skill developer creating commands:
 3. Connect AWS Lambda code (.js) to the Skill Developer
 4. Test!
 
-## Plans for the Future
--To display the user’s health data based on exercise, food intake, and medicine. 
-provide this data using graphs
--To program a unique and special curated music playlist geared toward health and fitness, different from the one Alexa can already do
-
 ## Accomplishments that we're proud of
 Our alexa skill exists!!!
 
@@ -40,4 +35,9 @@ Our alexa skill exists!!!
 So much!...We were challenged to figure out JavaScript, Alexa Skill Developer, and AWS Lambda. 
 
 ## What's next for Health Coach
-We plan to have Health Coach track habits from the Apple Health device in order to have the skill communicate necessary activities.
+We plan to have Health Coach 
+- track habits from the Apple Health device in order to have the skill communicate necessary activities.
+- to display the user’s health data based on exercise, food intake, and medicine. 
+provide this data using graphs
+- to program a unique and special curated music playlist geared toward health and fitness, different from the one Alexa can already do
+
