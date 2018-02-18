@@ -28,7 +28,7 @@ Using the Alexa Skill developer creating commands:
 3. Connect AWS Lambda code (.js) to the Skill Developer
 4. Test!
 
-## Challenges we ran into
+## Plans for the Future
 -To display the user’s health data based on exercise, food intake, and medicine. 
 provide this data using graphs
 -To program a unique and special curated music playlist geared toward health and fitness, different from the one Alexa can already do
