@@ -1,11 +1,11 @@
 ## Inspiration
 Incorporating our technology (we are Computer Science students after all) into our health and exercise habits!
 
-##Submission 
-HopHacks Hackathon:
-ATANA
-PayPal
-redhat
+## Submission 
+*HopHacks Hackathon Spring 2018:
+    -ATANA
+    -PayPal
+    -redhat
 
 ## What it does
 * Boost self-confidence 
