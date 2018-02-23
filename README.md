@@ -1,4 +1,3 @@
-![Alt text](Alexa-HealthCoach/assets/images/roundapple2Artboard 1.png)
 ## Inspiration
 Incorporating our technology (we are Computer Science students after all) into our health and exercise habits!
 
