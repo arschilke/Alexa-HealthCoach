@@ -39,5 +39,5 @@ We plan to have Health Coach
 - track habits from the Apple Health device in order to have the skill communicate necessary activities.
 - to display the user’s health data based on exercise, food intake, and medicine. 
 provide this data using graphs
-- to program a unique and special curated music playlist geared toward health and fitness, different from the one Alexa can already do
+- to program a unique and special curated music playlist geared toward health and fitness, different from the one Alexa can already do 
 
