@@ -1,3 +1,4 @@
+![Alt text](assests/images/roundapple2Artboard 1.png?raw=true "Title")
 ## Inspiration
 Incorporating our technology (we are Computer Science students after all) into our health and exercise habits!
 
